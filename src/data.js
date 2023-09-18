@@ -34,3 +34,23 @@ export const check = [
     img: a1,
   },
 ];
+export const todose = [
+  {
+    title: "Fix an ability to display all tasks.",
+  },
+  {
+    title: "Design Should be exactly same",
+  },
+  {
+    title: "Fix an ability to add a new task.",
+  },
+  {
+    title: "Fix an ability to toggle a task.",
+  },
+  {
+    title: "Fix an ability to delete a task.",
+  },
+  {
+    title: "Fix an ability to count completed tasks.",
+  },
+];
